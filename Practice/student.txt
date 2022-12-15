@@ -1,0 +1,5 @@
+	Ujjwal 12 ¤öa ÙÔw 5-6419484-1998308880
+	cd "c:\Users\Ujjwal\Documents\Coding\C Practice\Practice\" ; if ($?) { gcc important_file_handling.c -o important_file_handling } ; if ($?) { .\important_file_handling } 46538785 cd "c:\Users\Ujjwal\Documents\Coding\C Practice\Practice\" ; if ($?) { gcc important_file_handling.c -o important_file_handling } ; if ($?) { .\important_file_handling } Üôa 13-8192000-24969357
+	cd "c:\Users\Ujjwal\Documents\Coding\C Practice\Practice\" ; if ($?) { gcc important_file_handling.c -o important_file_handling } ; if ($?) { .\important_file_handling } 0 #include <stdio.h>  1998294233-0-16256
+	#include <string.h> 0 struct DateofBirth  16868728-7209012-872415284
+	{ 1130515393 int mm, dd, yy;  -2-6422280-1957851117

@@ -1,0 +1,5 @@
+	Ujjwal 200148  Hòa 12-27-7864944
+	/15/2002 0 cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun }  0-0-0
+	cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun } 0 cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun }  2000391385-7942064-65534
+	cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun } 28799742 cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun }  5-12845744-1
+	cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun } -904539869 cd "c:\Users\Ujjwal\Documents\Coding\C Practice\1st_exam\" ; if ($?) { gcc recursive_fun.c -o recursive_fun } ; if ($?) { .\recursive_fun }  -2-6422280-1978036205
